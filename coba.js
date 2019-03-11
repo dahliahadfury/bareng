@@ -1,1 +1,1 @@
-console.log("makan")
+console.log("makan-makannnnn"):
