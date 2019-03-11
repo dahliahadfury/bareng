@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-console.log("makan-makannnnn"):
-=======
+console.log("makan-makannnnn")
 console.log("makan")
 console.log("ini dari yurs baru")
->>>>>>> yurs
+console.log("ini dari yols")
